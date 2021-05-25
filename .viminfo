@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1621919394,,"wq"
+|2,0,1621950411,,"wq"
 :w
 |2,0,1621919390,,"w"
 
@@ -27,26 +27,150 @@
 # Registers:
 
 # File marks:
-'0  1  38  ~/teja.txt
-|4,48,1,38,1621919394,"~/teja.txt"
-'1  1  39  ~/cherry2.txt
-|4,49,1,39,1621871045,"~/cherry2.txt"
-'2  1  34  ~/cherry.txt
-|4,50,1,34,1621870966,"~/cherry.txt"
-'3  1  40  ~/cherry1.txt
-|4,51,1,40,1621870139,"~/cherry1.txt"
-'4  1  34  ~/cherry.txt
-|4,52,1,34,1621870100,"~/cherry.txt"
-'5  1  39  ~/example.txt
-|4,53,1,39,1621866008,"~/example.txt"
+'0  298  0  ~/.viminfo
+|4,48,298,0,1621950412,"~/.viminfo"
+'1  5  0  ~/first.java
+|4,49,5,0,1621950233,"~/first.java"
+'2  1  39  ~/sivateja.txt
+|4,50,1,39,1621919756,"~/sivateja.txt"
+'3  1  39  ~/sivateja.txt
+|4,51,1,39,1621919756,"~/sivateja.txt"
+'4  1  38  ~/teja.txt
+|4,52,1,38,1621919394,"~/teja.txt"
+'5  1  39  ~/cherry2.txt
+|4,53,1,39,1621871045,"~/cherry2.txt"
+'6  1  34  ~/cherry.txt
+|4,54,1,34,1621870966,"~/cherry.txt"
+'7  1  40  ~/cherry1.txt
+|4,55,1,40,1621870139,"~/cherry1.txt"
+'8  1  34  ~/cherry.txt
+|4,56,1,34,1621870100,"~/cherry.txt"
+'9  1  39  ~/example.txt
+|4,57,1,39,1621866008,"~/example.txt"
 
 # Jumplist (newest first):
+-'  298  0  ~/.viminfo
+|4,39,298,0,1621950412,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1621950385,"~/.viminfo"
+-'  5  0  ~/first.java
+|4,39,5,0,1621950233,"~/first.java"
+-'  5  0  ~/first.java
+|4,39,5,0,1621950233,"~/first.java"
+-'  1  0  ~/first.java
+|4,39,1,0,1621950208,"~/first.java"
+-'  1  0  ~/first.java
+|4,39,1,0,1621950208,"~/first.java"
+-'  1  39  ~/sivateja.txt
+|4,39,1,39,1621919756,"~/sivateja.txt"
+-'  1  39  ~/sivateja.txt
+|4,39,1,39,1621919756,"~/sivateja.txt"
+-'  1  39  ~/sivateja.txt
+|4,39,1,39,1621919756,"~/sivateja.txt"
+-'  1  38  ~/teja.txt
+|4,39,1,38,1621919394,"~/teja.txt"
+-'  1  38  ~/teja.txt
+|4,39,1,38,1621919394,"~/teja.txt"
+-'  1  38  ~/teja.txt
+|4,39,1,38,1621919394,"~/teja.txt"
+-'  1  38  ~/teja.txt
+|4,39,1,38,1621919394,"~/teja.txt"
+-'  1  38  ~/teja.txt
+|4,39,1,38,1621919394,"~/teja.txt"
+-'  1  38  ~/teja.txt
+|4,39,1,38,1621919394,"~/teja.txt"
+-'  1  38  ~/teja.txt
+|4,39,1,38,1621919394,"~/teja.txt"
 -'  1  38  ~/teja.txt
 |4,39,1,38,1621919394,"~/teja.txt"
 -'  1  39  ~/cherry2.txt
 |4,39,1,39,1621871045,"~/cherry2.txt"
 -'  1  39  ~/cherry2.txt
 |4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  39  ~/cherry2.txt
+|4,39,1,39,1621871045,"~/cherry2.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
+-'  1  34  ~/cherry.txt
+|4,39,1,34,1621870966,"~/cherry.txt"
 -'  1  34  ~/cherry.txt
 |4,39,1,34,1621870966,"~/cherry.txt"
 -'  1  34  ~/cherry.txt
@@ -71,88 +195,80 @@
 |4,39,1,40,1621870139,"~/cherry1.txt"
 -'  1  40  ~/cherry1.txt
 |4,39,1,40,1621870139,"~/cherry1.txt"
--'  1  34  ~/cherry.txt
-|4,39,1,34,1621870100,"~/cherry.txt"
--'  1  34  ~/cherry.txt
-|4,39,1,34,1621870100,"~/cherry.txt"
--'  1  34  ~/cherry.txt
-|4,39,1,34,1621870100,"~/cherry.txt"
--'  1  34  ~/cherry.txt
-|4,39,1,34,1621870100,"~/cherry.txt"
--'  1  34  ~/cherry.txt
-|4,39,1,34,1621870100,"~/cherry.txt"
--'  1  34  ~/cherry.txt
-|4,39,1,34,1621870100,"~/cherry.txt"
--'  1  34  ~/cherry.txt
-|4,39,1,34,1621870100,"~/cherry.txt"
--'  1  34  ~/cherry.txt
-|4,39,1,34,1621870100,"~/cherry.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
--'  1  39  ~/example.txt
-|4,39,1,39,1621866008,"~/example.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
+-'  1  40  ~/cherry1.txt
+|4,39,1,40,1621870139,"~/cherry1.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/.viminfo
+	*	1621950410	0
+	"	298	0
+
+> ~/first.java
+	*	1621950231	0
+	"	5	0
+	^	5	1
+	.	5	0
+	+	5	0
+
+> ~/sivateja.txt
+	*	1621919755	0
+	"	1	39
+	^	1	40
+	.	1	39
+	+	1	39
 
 > ~/teja.txt
 	*	1621919393	0
